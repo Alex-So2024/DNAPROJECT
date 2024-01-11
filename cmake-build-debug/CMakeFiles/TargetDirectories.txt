@@ -1,0 +1,3 @@
+/Users/johnny/Downloads/ALEXPROJECT2/cmake-build-debug/CMakeFiles/project1.dir
+/Users/johnny/Downloads/ALEXPROJECT2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/johnny/Downloads/ALEXPROJECT2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
